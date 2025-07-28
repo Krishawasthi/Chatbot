@@ -5,8 +5,8 @@ The instructions to run the chatbot are :
 1 - The local host must have Ollama installed.
 2 - 3 models are been used in the Ollama.
 3 - To run those models the following commands are used:
- i. Ollama pull llama
- ii. Ollama pull mistral
- iii. Ollama pull gemma
+ i. Ollama pull llama.
+ ii. Ollama pull mistral.
+ iii. Ollama pull gemma.
 4 - Streamlit is used to run the chatbot. 
 5 - To run the chatbot locally "Streamlit run chatbot.py" command is used in the terminal.
